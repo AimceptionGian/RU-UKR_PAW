@@ -1,5 +1,7 @@
 # Auflistung von potenziellen Quellen
 
+https://de.statista.com/themen/8939/russland-ukraine-konflikt/#topicOverview
+
 ## Militärausgaben 2008 - 2023
 ### Russland
 https://de.statista.com/statistik/daten/studie/150888/umfrage/militaerausgaben-von-russland-seit-2000/
