@@ -5,3 +5,9 @@
 https://de.statista.com/statistik/daten/studie/150888/umfrage/militaerausgaben-von-russland-seit-2000/
 ### Ukraine
 https://de.statista.com/statistik/daten/studie/315946/umfrage/entwicklung-der-militaerausgaben-der-ukraine/
+
+## Aktuelle Militärstärke
+### Russland
+https://www.warpowerrussia.com
+### Ukraine
+https://www.warpowerukraine.com
