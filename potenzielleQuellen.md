@@ -6,7 +6,7 @@ https://de.statista.com/statistik/daten/studie/150888/umfrage/militaerausgaben-v
 ### Ukraine
 https://de.statista.com/statistik/daten/studie/315946/umfrage/entwicklung-der-militaerausgaben-der-ukraine/
 
-## Aktuelle Militärstärke
+## Aktuelle Militärstärke (Quelle unsicher: Global Fire Power)
 ### Russland
 https://www.warpowerrussia.com
 ### Ukraine
