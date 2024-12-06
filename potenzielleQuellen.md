@@ -22,3 +22,6 @@ https://deepstatemap.live/
 
 ## Events (Sammlung)
 https://github.com/zhukovyuri/VIINA
+
+## Zivile Tote
+https://de.statista.com/statistik/daten/studie/1297855/umfrage/anzahl-der-zivilen-opfer-durch-ukraine-krieg/
