@@ -1,0 +1,477 @@
+Month,Equipment,Losses
+2022-03,"2024
+Tanks",17780
+2022-03,Armored fighting vehicle,35175
+2022-03,Artillery systems,37775
+2022-03,Cars and cisterns,51570
+2022-03,Cruise missiles,7839
+2022-03,Helicopters,984
+2022-03,MLRS,2408
+2022-03,Planes,736
+2022-03,Ships (boats),84
+2022-03,Special equipment,6663
+2022-03,Submarines,3
+2022-03,UAV,49235
+2022-03,aircraft warfare,1927
+2022-04,"2024
+Tanks",17824
+2022-04,Armored fighting vehicle,35285
+2022-04,Artillery systems,57094
+2022-04,Cars and cisterns,51911
+2022-04,Cruise missiles,5226
+2022-04,Helicopters,656
+2022-04,MLRS,3644
+2022-04,Planes,1104
+2022-04,Ships (boats),56
+2022-04,Special equipment,6707
+2022-04,Submarines,2
+2022-04,UAV,33107
+2022-04,aircraft warfare,2905
+2022-05,"2024
+Tanks",26792
+2022-05,Armored fighting vehicle,53129
+2022-05,Artillery systems,38359
+2022-05,Cars and cisterns,78527
+2022-05,Cruise missiles,5233
+2022-05,Helicopters,656
+2022-05,MLRS,2446
+2022-05,Planes,736
+2022-05,Ships (boats),56
+2022-05,Special equipment,10122
+2022-05,Submarines,3
+2022-05,UAV,33329
+2022-05,aircraft warfare,1945
+2022-06,"2024
+Tanks",17889
+2022-06,Armored fighting vehicle,35516
+2022-06,Artillery systems,38485
+2022-06,Cars and cisterns,52712
+2022-06,Cruise missiles,7856
+2022-06,Helicopters,985
+2022-06,MLRS,2448
+2022-06,Planes,737
+2022-06,Ships (boats),84
+2022-06,Special equipment,6782
+2022-06,Submarines,2
+2022-06,UAV,50322
+2022-06,aircraft warfare,1949
+2022-07,"2024
+Tanks",17915
+2022-07,Armored fighting vehicle,53503
+2022-07,Artillery systems,58113
+2022-07,Cars and cisterns,53097
+2022-07,Cruise missiles,5238
+2022-07,Helicopters,658
+2022-07,MLRS,3690
+2022-07,Planes,1107
+2022-07,Ships (boats),56
+2022-07,Special equipment,6869
+2022-07,Submarines,2
+2022-07,UAV,33939
+2022-07,aircraft warfare,2930
+2022-08,"2024
+Tanks",26934
+2022-08,Armored fighting vehicle,35834
+2022-08,Artillery systems,38851
+2022-08,Cars and cisterns,80008
+2022-08,Cruise missiles,5239
+2022-08,Helicopters,658
+2022-08,MLRS,2462
+2022-08,Planes,738
+2022-08,Ships (boats),84
+2022-08,Special equipment,10319
+2022-08,Submarines,3
+2022-08,UAV,34028
+2022-08,aircraft warfare,1956
+2022-09,"2024
+Tanks",18011
+2022-09,Armored fighting vehicle,35971
+2022-09,Artillery systems,38969
+2022-09,Cars and cisterns,53723
+2022-09,Cruise missiles,7860
+2022-09,Helicopters,987
+2022-09,MLRS,2463
+2022-09,Planes,1107
+2022-09,Ships (boats),56
+2022-09,Special equipment,6894
+2022-09,Submarines,2
+2022-09,UAV,51306
+2022-09,aircraft warfare,1956
+2022-10,"2024
+Tanks",27109
+2022-10,Armored fighting vehicle,54236
+2022-10,Artillery systems,58646
+2022-10,Cars and cisterns,53933
+2022-10,Cruise missiles,5247
+2022-10,Helicopters,658
+2022-10,MLRS,3696
+2022-10,Planes,738
+2022-10,Ships (boats),56
+2022-10,Special equipment,6949
+2022-10,Submarines,2
+2022-10,UAV,34517
+2022-10,aircraft warfare,2934
+2022-11,"2024
+Tanks",18150
+2022-11,Armored fighting vehicle,36374
+2022-11,Artillery systems,39212
+2022-11,Cars and cisterns,81362
+2022-11,Cruise missiles,5249
+2022-11,Helicopters,658
+2022-11,MLRS,2466
+2022-11,Planes,738
+2022-11,Ships (boats),84
+2022-11,Special equipment,10487
+2022-11,Submarines,3
+2022-11,UAV,34737
+2022-11,aircraft warfare,1960
+2022-12,"2024
+Tanks",18178
+2022-12,Armored fighting vehicle,36483
+2022-12,Artillery systems,39393
+2022-12,Cars and cisterns,54651
+2022-12,Cruise missiles,7875
+2022-12,Helicopters,987
+2022-12,MLRS,2470
+2022-12,Planes,1107
+2022-12,Ships (boats),56
+2022-12,Special equipment,7048
+2022-12,Submarines,2
+2022-12,UAV,52756
+2022-12,aircraft warfare,2944
+2023-01,"2024
+Tanks",27319
+2023-01,Armored fighting vehicle,54974
+2023-01,Artillery systems,59356
+2023-01,Cars and cisterns,55020
+2023-01,Cruise missiles,5250
+2023-01,Helicopters,658
+2023-01,MLRS,3718
+2023-01,Planes,738
+2023-01,Ships (boats),56
+2023-01,Special equipment,10639
+2023-01,Submarines,2
+2023-01,UAV,35525
+2023-01,aircraft warfare,1968
+2023-02,"2024
+Tanks",18249
+2023-02,Armored fighting vehicle,36799
+2023-02,Artillery systems,39789
+2023-02,Cars and cisterns,83249
+2023-02,Cruise missiles,5250
+2023-02,Helicopters,658
+2023-02,MLRS,2481
+2023-02,Planes,738
+2023-02,Ships (boats),56
+2023-02,Special equipment,7133
+2023-02,Submarines,3
+2023-02,UAV,35806
+2023-02,aircraft warfare,1968
+2023-03,"2024
+Tanks",18293
+2023-03,Armored fighting vehicle,36883
+2023-03,Artillery systems,39968
+2023-03,Cars and cisterns,55999
+2023-03,Cruise missiles,7880
+2023-03,Helicopters,987
+2023-03,MLRS,2485
+2023-03,Planes,1107
+2023-03,Ships (boats),84
+2023-03,Special equipment,7149
+2023-03,Submarines,2
+2023-03,UAV,54130
+2023-03,aircraft warfare,1980
+2023-04,"2024
+Tanks",18332
+2023-04,Armored fighting vehicle,55480
+2023-04,Artillery systems,60201
+2023-04,Cars and cisterns,56274
+2023-04,Cruise missiles,5257
+2023-04,Helicopters,658
+2023-04,MLRS,3732
+2023-04,Planes,738
+2023-04,Ships (boats),56
+2023-04,Special equipment,7167
+2023-04,Submarines,2
+2023-04,UAV,36304
+2023-04,aircraft warfare,2982
+2023-05,"2024
+Tanks",27583
+2023-05,Armored fighting vehicle,37119
+2023-05,Artillery systems,40271
+2023-05,Cars and cisterns,84848
+2023-05,Cruise missiles,5260
+2023-05,Helicopters,658
+2023-05,MLRS,2490
+2023-05,Planes,738
+2023-05,Ships (boats),84
+2023-05,Special equipment,10762
+2023-05,Submarines,3
+2023-05,UAV,36589
+2023-05,aircraft warfare,1990
+2023-06,"2024
+Tanks",18438
+2023-06,Armored fighting vehicle,37204
+2023-06,Artillery systems,40364
+2023-06,Cars and cisterns,56906
+2023-06,Cruise missiles,7893
+2023-06,Helicopters,987
+2023-06,MLRS,2490
+2023-06,Planes,1107
+2023-06,Ships (boats),56
+2023-06,Special equipment,7198
+2023-06,Submarines,2
+2023-06,UAV,55300
+2023-06,aircraft warfare,1992
+2023-07,"2024
+Tanks",27720
+2023-07,Armored fighting vehicle,56084
+2023-07,Artillery systems,60755
+2023-07,Cars and cisterns,57244
+2023-07,Cruise missiles,5268
+2023-07,Helicopters,658
+2023-07,MLRS,3735
+2023-07,Planes,738
+2023-07,Ships (boats),56
+2023-07,Special equipment,7208
+2023-07,Submarines,2
+2023-07,UAV,37194
+2023-07,aircraft warfare,2988
+2023-08,"2024
+Tanks",18529
+2023-08,Armored fighting vehicle,37613
+2023-08,Artillery systems,40666
+2023-08,Cars and cisterns,86638
+2023-08,Cruise missiles,7908
+2023-08,Helicopters,658
+2023-08,MLRS,2494
+2023-08,Planes,738
+2023-08,Ships (boats),84
+2023-08,Special equipment,10845
+2023-08,Submarines,3
+2023-08,UAV,37413
+2023-08,aircraft warfare,1992
+2023-09,"2024
+Tanks",18619
+2023-09,Armored fighting vehicle,37843
+2023-09,Artillery systems,40880
+2023-09,Cars and cisterns,58257
+2023-09,Cruise missiles,5281
+2023-09,Helicopters,987
+2023-09,MLRS,2500
+2023-09,Planes,1107
+2023-09,Ships (boats),56
+2023-09,Special equipment,7230
+2023-09,Submarines,2
+2023-09,UAV,56536
+2023-09,aircraft warfare,2992
+2023-10,"2024
+Tanks",28018
+2023-10,Armored fighting vehicle,56983
+2023-10,Artillery systems,61568
+2023-10,Cars and cisterns,58557
+2023-10,Cruise missiles,5282
+2023-10,Helicopters,658
+2023-10,MLRS,3753
+2023-10,Planes,738
+2023-10,Ships (boats),56
+2023-10,Special equipment,10845
+2023-10,Submarines,2
+2023-10,UAV,37888
+2023-10,aircraft warfare,1998
+2023-11,"2024
+Tanks",18747
+2023-11,Armored fighting vehicle,38151
+2023-11,Artillery systems,41218
+2023-11,Cars and cisterns,88624
+2023-11,Cruise missiles,8263
+2023-11,Helicopters,658
+2023-11,MLRS,2502
+2023-11,Planes,738
+2023-11,Ships (boats),84
+2023-11,Special equipment,7230
+2023-11,Submarines,3
+2023-11,UAV,38184
+2023-11,aircraft warfare,1998
+2023-12,"2024
+Tanks",18788
+2023-12,Armored fighting vehicle,38262
+2023-12,Artillery systems,41412
+2023-12,Cars and cisterns,59522
+2023-12,Cruise missiles,5520
+2023-12,Helicopters,987
+2023-12,MLRS,3753
+2023-12,Planes,1107
+2023-12,Ships (boats),56
+2023-12,Special equipment,7230
+2023-12,Submarines,2
+2023-12,UAV,57721
+2023-12,aircraft warfare,3008
+2024-01,"2024
+Tanks",28241
+2024-01,Armored fighting vehicle,57557
+2024-01,Artillery systems,62261
+2024-01,Cars and cisterns,89662
+2024-01,Cruise missiles,5528
+2024-01,Helicopters,658
+2024-01,MLRS,2502
+2024-01,Planes,738
+2024-01,Ships (boats),56
+2024-01,Special equipment,10845
+2024-01,Submarines,2
+2024-01,UAV,38731
+2024-01,aircraft warfare,2008
+2024-02,"2024
+Tanks",18864
+2024-02,Armored fighting vehicle,38492
+2024-02,Artillery systems,41593
+2024-02,Cars and cisterns,60168
+2024-02,Cruise missiles,8294
+2024-02,Helicopters,658
+2024-02,MLRS,2502
+2024-02,Planes,738
+2024-02,Ships (boats),84
+2024-02,Special equipment,7230
+2024-02,Submarines,3
+2024-02,UAV,39032
+2024-02,aircraft warfare,2008
+2024-03,"2024
+Tanks",18899
+2024-03,Armored fighting vehicle,38610
+2024-03,Artillery systems,41682
+2024-03,Cars and cisterns,60545
+2024-03,Cruise missiles,5616
+2024-03,Helicopters,987
+2024-03,MLRS,3753
+2024-03,Planes,1107
+2024-03,Ships (boats),56
+2024-03,Special equipment,7230
+2024-03,Submarines,2
+2024-03,UAV,59027
+2024-03,aircraft warfare,3029
+2024-04,"2024
+Tanks",28390
+2024-04,Armored fighting vehicle,58067
+2024-04,Artillery systems,62718
+2024-04,Cars and cisterns,60938
+2024-04,Cruise missiles,5703
+2024-04,Helicopters,658
+2024-04,MLRS,2506
+2024-04,Planes,738
+2024-04,Ships (boats),56
+2024-04,Special equipment,10855
+2024-04,Submarines,2
+2024-04,UAV,39595
+2024-04,aircraft warfare,2038
+2024-05,"2024
+Tanks",18964
+2024-05,Armored fighting vehicle,38816
+2024-05,Artillery systems,41929
+2024-05,Cars and cisterns,92018
+2024-05,Cruise missiles,8562
+2024-05,Helicopters,658
+2024-05,MLRS,2506
+2024-05,Planes,738
+2024-05,Ships (boats),84
+2024-05,Special equipment,7255
+2024-05,Submarines,3
+2024-05,UAV,59749
+2024-05,aircraft warfare,2038
+2024-06,"2024
+Tanks",18999
+2024-06,Armored fighting vehicle,38922
+2024-06,Artillery systems,42025
+2024-06,Cars and cisterns,61742
+2024-06,Cruise missiles,5712
+2024-06,Helicopters,987
+2024-06,MLRS,3759
+2024-06,Planes,1107
+2024-06,Ships (boats),56
+2024-06,Special equipment,7263
+2024-06,Submarines,2
+2024-06,UAV,40000
+2024-06,aircraft warfare,3060
+2024-07,"2024
+Tanks",28547
+2024-07,Armored fighting vehicle,58624
+2024-07,Artillery systems,63156
+2024-07,Cars and cisterns,92902
+2024-07,Cruise missiles,5714
+2024-07,Helicopters,658
+2024-07,MLRS,2506
+2024-07,Planes,738
+2024-07,Ships (boats),56
+2024-07,Special equipment,10904
+2024-07,Submarines,2
+2024-07,UAV,40113
+2024-07,aircraft warfare,2045
+2024-08,"2024
+Tanks",19043
+2024-08,Armored fighting vehicle,39185
+2024-08,Artillery systems,42125
+2024-08,Cars and cisterns,62110
+2024-08,Cruise missiles,8577
+2024-08,Helicopters,987
+2024-08,MLRS,2506
+2024-08,Planes,738
+2024-08,Ships (boats),84
+2024-08,Special equipment,7278
+2024-08,Submarines,3
+2024-08,UAV,60311
+2024-08,aircraft warfare,2046
+2024-09,"2024
+Tanks",19058
+2024-09,Armored fighting vehicle,39260
+2024-09,Artillery systems,63217
+2024-09,Cars and cisterns,62304
+2024-09,Cruise missiles,5722
+2024-09,Helicopters,658
+2024-09,MLRS,3759
+2024-09,Planes,1107
+2024-09,Ships (boats),56
+2024-09,Special equipment,7284
+2024-09,Submarines,2
+2024-09,UAV,40287
+2024-09,aircraft warfare,3069
+2024-10,"2024
+Tanks",28627
+2024-10,Armored fighting vehicle,59057
+2024-10,Artillery systems,42230
+2024-10,Cars and cisterns,94095
+2024-10,Cruise missiles,5804
+2024-10,Helicopters,658
+2024-10,MLRS,2509
+2024-10,Planes,738
+2024-10,Ships (boats),56
+2024-10,Special equipment,10942
+2024-10,Submarines,3
+2024-10,UAV,40585
+2024-10,aircraft warfare,2048
+2024-11,"2024
+Tanks",19130
+2024-11,Armored fighting vehicle,39487
+2024-11,Artillery systems,42310
+2024-11,Cars and cisterns,63160
+2024-11,Cruise missiles,8829
+2024-11,Helicopters,987
+2024-11,MLRS,2512
+2024-11,Planes,738
+2024-11,Ships (boats),84
+2024-11,Special equipment,7302
+2024-11,Submarines,2
+2024-11,UAV,61248
+2024-11,aircraft warfare,2050
+2024-12,"2024
+Tanks",19147
+2024-12,Armored fighting vehicle,39571
+2024-12,Artillery systems,42342
+2024-12,Cars and cisterns,31678
+2024-12,Cruise missiles,2943
+2024-12,Helicopters,329
+2024-12,MLRS,2512
+2024-12,Planes,738
+2024-12,Ships (boats),28
+2024-12,Special equipment,3656
+2024-12,Submarines,1
+2024-12,UAV,20521
+2024-12,aircraft warfare,2051
